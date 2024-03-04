@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Resume : [Link](https://faceted-share-643.notion.site/Jimmy-457c00e41fa04ed9a85b937cea53fe53?pvs=74)
 <!--
 **iam-jimmy/iam-jimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
